@@ -2,7 +2,8 @@
 The main purpose of this is to simulate a small portion of an event-based project which is very frequently used by many companies.
 
 
-![Uploading image.png…]()
+![Screenshot 2024-01-16 144431](https://github.com/roshanwaghmare/Event-Based-S3-SQS-LAMBDA/assets/142305817/e06ddbd5-10bb-4207-bcc7-771509fbaa72)
+
 
 
 First we create S3 Bucket and folder inside
