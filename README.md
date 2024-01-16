@@ -1,6 +1,10 @@
 # Event-Based-S3-SQS-LAMBDA
 The main purpose of this is to simulate a small portion of an event-based project which is very frequently used by many companies.
 
+
+![Uploading image.png…]()
+
+
 First we create S3 Bucket and folder inside
 then will create SQS queue and create genrate one new policy for our S3
 
